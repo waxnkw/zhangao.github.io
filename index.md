@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/waxnkw/zhangao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img class="profile-picture" src="zhangao.jpg">
 
-### Markdown
+Hi! I am currently a research assistant at [THUNLP](http://nlp.csai.tsinghua.edu.cn/) and supervised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I just obtain my bachelor degree from Nanjing University in June 2020. During my undergraduate period, I worked at [MAGUS](https://magus.ink/) Lab and was supervised by Prof. [Tongwei Ren](https://software.nju.edu.cn//rentw/index.html). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research Interest
 
-```markdown
-Syntax highlighted code block
+My research interests mainly lie on multi-modal understanding especially relation detection under visual context and cross-modal retrieval.
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
 
-- Bulleted
-- List
+1. Tongwei Ren, **Ao Zhang**. RGB-D Salient Object Detection: A Review. Book Chapter of RGB-D Image
+   Analysis and Processing 2019(Part of the [Advances in Computer Vision and Pattern Recognition](https://link.springer.com/bookseries/4205) book series (ACVPR))[[pdf](https://link.springer.com/chapter/10.1007/978-3-030-28603-3_9)\]
+2. Wenhui Li, Anan Liu, Weizhi Nie, Dan Song, Yuqian Li, Weijie Wang, Shu  Xiang, Heyu Zhou, Ngoc-Minh Bui, Yunchi Cen, Zenian Chen, Huy-Hoang  Chung-Nguyen, Gia-Han Diep, Trong-Le Do, Eugeni L. Doubrovski, Anh-Duc  Duong, Jo M. P. Geraedts, Haobin Guo, Trung-Hieu Hoang, Yichen Li, Xing  Liu, Zishun Liu, Duc-Tuan Luu, Yunsheng Ma, Vinh-Tiep Nguyen, Jie Nie,  Tongwei Ren, Mai-Khiem Tran, Son-Thanh Tran-Nguyen, Minh-Triet Tran,  The-Anh Vu-Le, Charlie C. L. Wang, Shijie Wang, Gangshan Wu, Caifei  Yang, Meng Yuan, Hao Zhai, **Ao Zhang**, Fan Zhang, Sicheng Zhao. Monocular  image based 3D model retrieval. Eurographics Workshop on 3D Object  Retrieval (EGW'19-3DOR), Genoa, Italy, 2019. (**Tie for 2nd place in SHREC 2019 contest**) \[[pdf](https://magus.ink/homepage_static/paper/shrec19-liw.pdf)\]\[[code](https://github.com/waxnkw/gvcnn-pytorch)\]
 
-1. Numbered
-2. List
+## Experience/Education
 
-**Bold** and _Italic_ and `Code` text
+Year | Experience/Education |  
+-----|:------|--------
+*2020/9-Now* | **Research assistant at THUNLP,  Tsinghua University** |  
+*2018/10-2020/7* | **Researcher at MAGUS,  Nanjing University** |      
+*2016/9-2020/7* | **B.S. in Software Engineering, Nanjing University** |  
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/waxnkw/zhangao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
