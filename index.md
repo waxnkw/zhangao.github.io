@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="zhangao.jpg">
+//<img class="profile-picture" src="zhangao.jpg">
 
 Hi! I am currently a research assistant at [THUNLP](http://nlp.csai.tsinghua.edu.cn/) and supervised by Prof. [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/). I just obtain my bachelor degree from Nanjing University in June 2020. During my undergraduate period, I worked at [MAGUS](https://magus.ink/) Lab and was supervised by Prof. [Tongwei Ren](https://software.nju.edu.cn//rentw/index.html). 
 
